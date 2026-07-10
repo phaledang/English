@@ -88,3 +88,6 @@ mindmap
       Should
         Advice
 ```
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa15f451-7fd1-47b2-8131-2bdcc1a87826" />
+
