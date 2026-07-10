@@ -242,11 +242,11 @@ mindmap
         Example You should practice
 ```
 
-Great idea. Splitting into **4 separate Mermaid mind maps** makes them much more readable.
+# Splitting into **4 separate Mermaid mind maps** makes them much more readable.
 
 ## 1. Present Tenses
 
-````markdown
+
 ```mermaid
 mindmap
   root((English Tenses Present))
@@ -295,13 +295,12 @@ mindmap
       Perfect Completed
       Perfect Continuous Duration
 ```
-````
 
 ***
 
 ## 2. Past Tenses
 
-````markdown
+
 ```mermaid
 mindmap
   root((English Tenses Past))
@@ -344,13 +343,11 @@ mindmap
       Perfect Earlier Past
       Perfect Continuous Past Duration
 ```
-````
 
 ***
 
 ## 3. Future Tenses
 
-````markdown
 ```mermaid
 mindmap
   root((English Tenses Future))
@@ -395,13 +392,13 @@ mindmap
       Future Completion
       Future Duration
 ```
-````
+
 
 ***
 
 ## 4. Modal Verbs
 
-````markdown
+
 ```mermaid
 mindmap
   root((English Tenses Modals))
@@ -458,7 +455,7 @@ mindmap
       Example
         Would you help me
 ```
-````
+
 
 ## Fast Recall Cheat Sheet
 
