@@ -241,3 +241,244 @@ mindmap
         Use Advice
         Example You should practice
 ```
+
+Great idea. Splitting into **4 separate Mermaid mind maps** makes them much more readable.
+
+## 1. Present Tenses
+
+````markdown
+```mermaid
+mindmap
+  root((English Tenses Present))
+
+    Simple Present
+      Structure
+        Subject Verb s es Object
+      Use
+        Habits
+        Routines
+        General truths
+      Example
+        She plays tennis every Sunday
+
+    Present Continuous
+      Structure
+        Subject am is are Verb ing Object
+      Use
+        Happening now
+        Temporary actions
+      Example
+        She is playing tennis now
+
+    Present Perfect
+      Structure
+        Subject has have Verb3 Object
+      Use
+        Completed actions
+        Life experience
+        Present result
+      Example
+        She has played tennis many times
+
+    Present Perfect Continuous
+      Structure
+        Subject has have been Verb ing Object
+      Use
+        Started in past
+        Continues now
+      Example
+        She has been playing for two hours
+
+    Remember
+      Simple Fact
+      Continuous In Progress
+      Perfect Completed
+      Perfect Continuous Duration
+```
+````
+
+***
+
+## 2. Past Tenses
+
+````markdown
+```mermaid
+mindmap
+  root((English Tenses Past))
+
+    Simple Past
+      Structure
+        Subject Verb2 Object
+      Use
+        Finished past actions
+      Example
+        She played tennis yesterday
+
+    Past Continuous
+      Structure
+        Subject was were Verb ing Object
+      Use
+        Action in progress in past
+      Example
+        She was playing at five PM
+
+    Past Perfect
+      Structure
+        Subject had Verb3 Object
+      Use
+        Before another past action
+      Example
+        She had played before it rained
+
+    Past Perfect Continuous
+      Structure
+        Subject had been Verb ing Object
+      Use
+        Duration before past point
+      Example
+        She had been playing for one hour
+
+    Timeline
+      Simple Finished Past
+      Continuous Ongoing Past
+      Perfect Earlier Past
+      Perfect Continuous Past Duration
+```
+````
+
+***
+
+## 3. Future Tenses
+
+````markdown
+```mermaid
+mindmap
+  root((English Tenses Future))
+
+    Simple Future
+      Structure
+        Subject will Verb1 Object
+      Use
+        Predictions
+        Decisions
+        Future actions
+      Example
+        She will play tomorrow
+
+    Future Continuous
+      Structure
+        Subject will be Verb ing Object
+      Use
+        In progress at future time
+      Example
+        She will be playing at five PM
+
+    Future Perfect
+      Structure
+        Subject will have Verb3 Object
+      Use
+        Completed before future point
+      Example
+        She will have played by tomorrow
+
+    Future Perfect Continuous
+      Structure
+        Subject will have been Verb ing Object
+      Use
+        Duration before future point
+      Example
+        She will have been playing for three hours
+
+    Timeline
+      Future Action
+      Future Progress
+      Future Completion
+      Future Duration
+```
+````
+
+***
+
+## 4. Modal Verbs
+
+````markdown
+```mermaid
+mindmap
+  root((English Tenses Modals))
+
+    Can
+      Use
+        Ability
+        Informal permission
+      Example
+        She can swim
+
+    Could
+      Use
+        Past ability
+        Polite request
+      Example
+        Could you help me
+
+    May
+      Use
+        Permission
+      Example
+        May I come in
+
+    Might
+      Use
+        Possibility
+      Example
+        It might rain
+
+    Must
+      Use
+        Obligation
+        Strong necessity
+      Example
+        You must study
+
+    Should
+      Use
+        Advice
+      Example
+        You should practice
+
+    Will
+      Use
+        Future action
+      Example
+        I will call you
+
+    Would
+      Use
+        Polite request
+        Hypothetical situation
+      Example
+        Would you help me
+```
+````
+
+## Fast Recall Cheat Sheet
+
+```text
+Present = Now
+Past = Before Now
+Future = After Now
+
+Simple = Fact
+Continuous = In Progress
+Perfect = Completed
+Perfect Continuous = Duration
+
+Formula Pattern
+
+Simple                Verb
+Continuous            Be + Verb ing
+Perfect               Have + Verb3
+Perfect Continuous    Have been + Verb ing
+```
+
+
+
